@@ -1,33 +1,62 @@
-
-<h1 align="center">
-  Hello, I'm Ayanaw 👨‍💻
+<h1 align="center" style="color: #61dafb; font-family: 'Segoe UI', sans-serif; text-shadow: 0 0 10px rgba(97, 218, 251, 0.5);">
+  ✨ Hello, I'm Ayanaw ✨
 </h1>
 
-<hr/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;React%2FNext.js+Specialist;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+<hr style="border: 1px solid #38B2AC; opacity: 0.3;">
 
 # 💫 About Me:
-✨💻 **Passionate Frontend Engineer** <br/>
-⚡ **React/Next.js Developer** building performant, modern applications   <br/>
-🛠️ **Tech Stack**: React, Next.js, JavaScript, Tailwind CSS, Vite   <br/>
-🚀  Currently growing my skills  <br/>
-📬 Open for collaborations: [ayanawmengesha21@gmail.com](mailto:ayanawmengesha21@gmail.com)  <br/>
-📩 Let's build something awesome together!  <br/>
+<div style="background: linear-gradient(90deg, rgba(56,178,172,0.1) 0%, rgba(97,218,251,0.1) 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #38B2AC;">
+✨ **Passionate Frontend Engineer** crafting pixel-perfect experiences<br/>
+⚡ **React/Next.js Specialist** building performant, modern applications<br/>
+🎨 **UI Artisan** with Tailwind CSS & Vite expertise<br/>
+🚀 Currently mastering advanced React patterns<br/>
+📬 Let's create something amazing: <a href="mailto:ayanawmengesha21@gmail.com" style="color: #61dafb; text-decoration: none;">ayanawmengesha21@gmail.com</a>
+</div>
 
-
-## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayanawmengesha21@gmail.com) 
+## 🌐 Socials: 
+<div style="margin-top: 10px;">
+  <a href="mailto:ayanawmengesha21@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourhandle" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+</div>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ayanaw21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=ayanaw21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanaw21&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanaw21&theme=radical&background=0d1117&hide_border=true" alt="Streak Stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" alt="Top Languages" style="width: 100%;">
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies">
+</div>
