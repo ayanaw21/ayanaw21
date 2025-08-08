@@ -1,5 +1,24 @@
-<h1 align="center" style="color: #61dafb; font-family: 'Segoe UI', sans-serif; text-shadow: 0 0 10px rgba(97, 218, 251, 0.5);">
-  ✨ Hello, I'm Ayanaw ✨
+<h1 align="center">
+  <svg width="100%" height="60" viewBox="0 0 600 60">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#61DAFB;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#38B2AC;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#646CFF;stop-opacity:1" />
+      </linearGradient>
+      <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="5" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          font-family="Segoe UI, sans-serif" font-size="40" font-weight="bold"
+          fill="url(#gradient)" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="fill" values="#61DAFB;#38B2AC;#646CFF;#61DAFB" dur="8s" repeatCount="indefinite" />
+      ✨ Hello, I'm Ayanaw ✨
+    </text>
+  </svg>
 </h1>
 
 <div align="center">
@@ -53,5 +72,6 @@
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
-### 🔝 Top Contributed Repo
+
+### 🔝 Top Contributed Repo : 
 ![](https://github-contributor-stats.vercel.app/api?username=ayanaw21&limit=5&theme=dark&combine_all_yearly_contributions=true)
