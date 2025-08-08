@@ -1,7 +1,8 @@
 
-<p align="center>
-  # Hello, I'm Ayanaw 👨‍💻
-<p/>
+<h1 align="center">
+  Hello, I'm Ayanaw 👨‍💻
+</h1>
+
 <hr/>
 
 # 💫 About Me:
