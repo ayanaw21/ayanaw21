@@ -1,7 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=61DAFB&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=✨+Hello%2C+I'm+Ayanaw+✨;Frontend+Developer+Extraordinaire;React%2FNext.js+Specialist;Tailwind+CSS+Artist;Tech+Innovator" alt="Animated Typing Header" />
-</div>
-
+<h1 align="center" style="
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(90deg, #38B2AC, #61DAFB, #646CFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 12px rgba(56, 178, 172, 0.3);
+  animation: gradient 8s ease infinite;
+  background-size: 200% 200%;
+">
+  ✨ Hello, I'm Ayanaw ✨
+</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;React%2FNext.js+Specialist;Tech+Enthusiast" alt="Typing SVG" />
