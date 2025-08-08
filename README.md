@@ -10,53 +10,12 @@
 
 # 💫 About Me:
 
-<div align="center" style="
-    background: linear-gradient(145deg, rgba(56,178,172,0.15) 0%, rgba(97,218,251,0.15) 100%);
-    padding: 1.5rem;
-    border-radius: 16px;
-    border-left: 5px solid #61DAFB;
-    box-shadow: 0 4px 12px rgba(97,218,251,0.15);
-    margin: 1.5rem 0;
-    font-family: 'Segoe UI', system-ui, sans-serif;
-">
-  
-<div style="display: inline-block; background: rgba(56,178,172,0.2); padding: 8px 16px; border-radius: 50px; margin-bottom: 1rem;">
-  <span style="color: #61DAFB; font-weight: 600; font-size: 1.1em;">✨ Frontend Developer ✨</span>
-</div>
-
-<div style="text-align: left; line-height: 1.8;">
-  
-🔮 **<span style="color: #61DAFB">Digital Experience Architect</span>**<br/> 
-Crafting pixel-perfect, performant web applications
-
-⚡ **<span style="color: #38B2AC">React/Next.js Specialist</span>**<br/>
-Building modern, scalable frontend architectures
-
-🎨 **<span style="color: #646CFF">UI Craftsman</span>**<br/>
-Tailwind CSS | Vite | Responsive Design
-
-🚀 **<span style="color: #FF6B6B">Currently Mastering</span>**<br/>
-Advanced React patterns | State management | Animation
-
-</div>
-
-<div style="margin-top: 1.5rem;">
-  <a href="mailto:ayanawmengesha21@gmail.com" style="
-    display: inline-block;
-    background: linear-gradient(90deg, #61DAFB, #38B2AC);
-    color: white;
-    padding: 10px 24px;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: 600;
-    box-shadow: 0 4px 8px rgba(97,218,251,0.3);
-    transition: all 0.3s ease;
-  ">Let's Build Together →<a href="mailto:ayanawmengesha21@gmail.com" style="color: #61dafb; text-decoration: none;">ayanawmengesha21@gmail.com</a>
-
-
-</div>
-
-</div>
+✨💻 **Passionate Frontend Engineer** <br/>
+⚡️ **React/Next.js Developer** building performant, modern applications   <br/>
+🛠 **Tech Stack**: React, Next.js, JavaScript, Tailwind CSS, Vite   <br/>
+🚀  Currently growing my skills  <br/>
+📬 Open for collaborations: [ayanawmengesha21@gmail.com](mailto:ayanawmengesha21@gmail.com)  <br/>
+📩 Let's build something awesome together!  <br/>
 
 
 ## 🌐 Socials: 
@@ -86,14 +45,13 @@ Advanced React patterns | State management | Animation
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px;">
- ![](https://github-readme-stats.vercel.app/api?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=ayanaw21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-contributor-stats.vercel.app/api?username=ayanaw21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayanaw21&limit=5&theme=dark&combine_all_yearly_contributions=true)
