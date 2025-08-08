@@ -1,25 +1,7 @@
-<h1 align="center">
-  <svg width="100%" height="60" viewBox="0 0 600 60">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#61DAFB;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#38B2AC;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#646CFF;stop-opacity:1" />
-      </linearGradient>
-      <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="5" result="blur" />
-        <feComposite in="SourceGraphic" in2="blur" operator="over" />
-      </filter>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
-          font-family="Segoe UI, sans-serif" font-size="40" font-weight="bold"
-          fill="url(#gradient)" filter="url(#glow)">
-      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#61DAFB;#38B2AC;#646CFF;#61DAFB" dur="8s" repeatCount="indefinite" />
-      ✨ Hello, I'm Ayanaw ✨
-    </text>
-  </svg>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;React%2FNext.js+Specialist;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;React%2FNext.js+Specialist;Tech+Enthusiast" alt="Typing SVG" />
