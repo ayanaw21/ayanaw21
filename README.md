@@ -1,12 +1,4 @@
-<h1 align="center" style="
-  font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(90deg, #38B2AC, #61DAFB, #646CFF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 12px rgba(56, 178, 172, 0.3);
-  animation: gradient 8s ease infinite;
-  background-size: 200% 200%;
-">
+<h1 align="center">
   ✨ Hello, I'm Ayanaw ✨
 </h1>
 
