@@ -1,4 +1,4 @@
-<h1 align="center" color="#000">
+<h1 align="center">
   ✨ Hello, I'm Ayanaw ✨
 </h1>
 
