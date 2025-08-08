@@ -9,24 +9,60 @@
 <hr style="border: 1px solid #38B2AC; opacity: 0.3;">
 
 # 💫 About Me:
-<div style="background: linear-gradient(90deg, rgba(56,178,172,0.1) 0%, rgba(97,218,251,0.1) 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #38B2AC;">
-✨ **Passionate Frontend Engineer** crafting pixel-perfect experiences<br/>
-⚡ **React/Next.js Specialist** building performant, modern applications<br/>
-🎨 **UI Artisan** with Tailwind CSS & Vite expertise<br/>
-🚀 Currently mastering advanced React patterns<br/>
-📬 Let's create something amazing: <a href="mailto:ayanawmengesha21@gmail.com" style="color: #61dafb; text-decoration: none;">ayanawmengesha21@gmail.com</a>
+
+<div align="center" style="
+    background: linear-gradient(145deg, rgba(56,178,172,0.15) 0%, rgba(97,218,251,0.15) 100%);
+    padding: 1.5rem;
+    border-radius: 16px;
+    border-left: 5px solid #61DAFB;
+    box-shadow: 0 4px 12px rgba(97,218,251,0.15);
+    margin: 1.5rem 0;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+">
+  
+<div style="display: inline-block; background: rgba(56,178,172,0.2); padding: 8px 16px; border-radius: 50px; margin-bottom: 1rem;">
+  <span style="color: #61DAFB; font-weight: 600; font-size: 1.1em;">✨ Frontend Developer ✨</span>
 </div>
+
+<div style="text-align: left; line-height: 1.8;">
+  
+🔮 **<span style="color: #61DAFB">Digital Experience Architect</span>**<br/> 
+Crafting pixel-perfect, performant web applications
+
+⚡ **<span style="color: #38B2AC">React/Next.js Specialist</span>**<br/>
+Building modern, scalable frontend architectures
+
+🎨 **<span style="color: #646CFF">UI Craftsman</span>**<br/>
+Tailwind CSS | Vite | Responsive Design
+
+🚀 **<span style="color: #FF6B6B">Currently Mastering</span>**<br/>
+Advanced React patterns | State management | Animation
+
+</div>
+
+<div style="margin-top: 1.5rem;">
+  <a href="mailto:ayanawmengesha21@gmail.com" style="
+    display: inline-block;
+    background: linear-gradient(90deg, #61DAFB, #38B2AC);
+    color: white;
+    padding: 10px 24px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    box-shadow: 0 4px 8px rgba(97,218,251,0.3);
+    transition: all 0.3s ease;
+  ">Let's Build Together →<a href="mailto:ayanawmengesha21@gmail.com" style="color: #61dafb; text-decoration: none;">ayanawmengesha21@gmail.com</a>
+
+
+</div>
+
+</div>
+
 
 ## 🌐 Socials: 
 <div style="margin-top: 10px;">
   <a href="mailto:ayanawmengesha21@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 
@@ -51,9 +87,10 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanaw21&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="GitHub Stats" style="width: 48%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanaw21&theme=radical&background=0d1117&hide_border=true" alt="Streak Stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" alt="Top Languages" style="width: 100%;">
+ ![](https://github-readme-stats.vercel.app/api?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ayanaw21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-contributor-stats.vercel.app/api?username=ayanaw21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 ## 🏆 GitHub Trophies
