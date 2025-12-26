@@ -61,6 +61,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanaw21&theme=react-dark" alt="Activity Graph" />
+</p>
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
