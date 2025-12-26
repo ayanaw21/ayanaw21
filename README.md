@@ -60,13 +60,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ayanaw21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanaw21&theme=react-dark" alt="Activity Graph" />
-</p>
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
