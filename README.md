@@ -12,7 +12,7 @@
 
 ✨💻 **Passionate Fullstack Engineer** <br/>
 ⚡️ **Building end-to-end applications** with focus on performance and scalability <br/>
-🛠 **Core Stack**: React/Next.js (Frontend) + Node.js/Express (Backend) + MySQL/Prisma (Databases) <br/>
+🛠 **Core Stack**: React/Next.js (Frontend) + Node.js/Express (Backend) + MongoDB/mongoose (Databases) <br/>
 📬 Open for collaborations: [ayanawmengesha21@gmail.com](mailto:ayanawmengesha21@gmail.com) <br/>
 📩 Let's build something awesome from front to back! <br/>
 
@@ -60,6 +60,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanaw21&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies">
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayanaw21&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
